@@ -81,8 +81,3 @@ class Myapp extends StatelessWidget {
     );
   }
 }
-
-//Column is accpt Childern // 
-// Container is a single weid.
-//لصناعه فراغات بين الاسطر يمديني استخدم SizeBox
-
